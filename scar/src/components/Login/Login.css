@@ -1,0 +1,22 @@
+.loginbtn{
+  width: 100%;
+  padding: 14px;
+  margin-top: 50px;
+  font-size: 18px;
+  position: relative;
+  left: -3px;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0px 5px 15px rgba(255, 65, 108, 0.5);
+  transition: all 0.3s ease-in-out;
+}
+.logini{
+  color:bisque;
+  right: 50px;
+  top: 220px;
+  position: absolute;
+}
